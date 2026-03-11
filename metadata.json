@@ -1,0 +1,5 @@
+{
+  "name": "Document Format Converter",
+  "description": "Standardize academic documents (PDF/DOCX) to A4 format with specific formatting rules.",
+  "requestFramePermissions": []
+}
